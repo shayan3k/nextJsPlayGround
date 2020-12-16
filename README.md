@@ -2,9 +2,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-At First run:
-npm install && npm update
-then:
-npm run dev
+At First run:<br />
+npm install && npm update<br />
+then:<br />
+npm run dev<br />
 
 Have fun:)
